@@ -1,0 +1,32 @@
+{
+  "name": "portafoliotra",
+  "version": "1.0.0",
+  "description": "portafolio version 2022",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexcard16?tab=repositories"
+  },
+  "author": "brahian alexis cardona",
+  "license": "ISC",
+  "dependencies": {
+    "eins-modal": "^2.2.2",
+    "next": "^12.1.6",
+    "npm": "^8.11.0",
+    "start": "^5.1.0"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^4.0.0",
+    "css-loader": "^6.7.1",
+    "css-minimizer-webpack-plugin": "^4.0.0",
+    "html-loader": "^3.1.0",
+    "html-webpack-plugin": "^5.5.0",
+    "mini-css-extract-plugin": "^2.6.0",
+    "terser-webpack-plugin": "^5.3.1",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  }
+}
